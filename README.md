@@ -1,0 +1,39 @@
+# Özge & Gamze Güzellik 🌸
+
+İşletmeciliğini yaptığım Güzellik salonu için yaptığım bu proje, **Özge & Gamze Güzellik Salonu ** için hazırlanmış, modern ve mobil uyumlu bir tanıtım web sitesidir.  
+Site, güzellik merkezinin hizmetlerini, salon görsellerini, müşteri yorumlarını ve fiyat listesini içerir.
+
+---
+
+## 🚀 Özellikler
+
+- 📱 **Tam Mobil Uyumluluk**
+- 🎥 **Tanıtım Videosu**
+- ⭐ **Gerçek Müşteri Yorumları**
+- 🖼️ **Modern Galeri Tasarımı**
+- 💰 **Fiyat Listesi (Accordion Stilinde)**
+- 📍 **Google Maps Konum Entegrasyonu**
+- 📞 **Hızlı Randevu (Telefon & WhatsApp)**
+- 👁️ **Gizli Ziyaretçi Sayacı (G tuşu ile görünür)**
+
+---
+
+## 🌐 Canlı Site
+
+🔗 [Siteyi Ziyaret Et (Netlify)](https://ozge-gamze-beauty.netlify.app)
+
+---
+
+## 📂 Kullanılan Teknolojiler
+
+- **HTML5**
+- **CSS3 (Responsive)**
+- **JavaScript (Vanilla JS)**
+
+---
+
+## ✨ Geliştirici
+
+👩‍💻 **Gamze Gören**  
+📷 [Instagram Sayfamız](https://instagram.com/ozge_gamze_guzellik)  
+📞 0555 100 82 85
