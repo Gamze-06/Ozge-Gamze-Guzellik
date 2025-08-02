@@ -14,13 +14,12 @@ Site, güzellik merkezinin hizmetlerini, salon görsellerini, müşteri yorumlar
 - 💰 **Fiyat Listesi (Accordion Stilinde)**
 - 📍 **Google Maps Konum Entegrasyonu**
 - 📞 **Hızlı Randevu (Telefon & WhatsApp)**
-- 👁️ **Gizli Ziyaretçi Sayacı (G tuşu ile görünür)**
 
 ---
 
 ## 🌐 Canlı Site
 
-🔗 [Siteyi Ziyaret Et (Netlify)](ozge-gamze-guzellik.netlify.app)
+🔗 [Siteyi Ziyaret Et (Netlify)][(ozge-gamze-guzellik.netlify.app)](https://ozge-gamze-guzellik.netlify.app/)
 
 ---
 
