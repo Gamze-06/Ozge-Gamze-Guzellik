@@ -20,7 +20,7 @@ Site, güzellik merkezinin hizmetlerini, salon görsellerini, müşteri yorumlar
 
 ## 🌐 Canlı Site
 
-🔗 [Siteyi Ziyaret Et (Netlify)](https://ozge-gamze-beauty.netlify.app)
+🔗 [Siteyi Ziyaret Et (Netlify)](ozge-gamze-guzellik.netlify.app)
 
 ---
 
